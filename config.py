@@ -24,9 +24,9 @@ schedule = {
         {'time': '12:45 - 14:10', 'send_time': '12:40', 'subject': 'ОБДЗ лек.', 'link': 'https://meet.google.com/jvv-ejuw-uzu'},
     ],
     'friday': [
-        {'time': '9:00 - 10:25', 'send_time': '8:55', 'subject': 'ОБДЗ лр.', 'link': 'https://meet.google.com/your-link'},
+        {'time': '9:00 - 10:25', 'send_time': '8:55', 'subject': 'ОБДЗ лр.', 'link': '(Кузьменко-https://meet.google.com/yum-rvfv-oka)\n(Голуб-https://meet.google.com/jnm-uncm-esb)'},
         {'time': '10:45 - 12:10', 'send_time': '10:40', 'subject': 'СА лек.', 'link': 'https://meet.google.com/ung-ffgu-qwq'},
-        {'time': '12:25 - 13:50', 'send_time': '12:20', 'subject': 'ОБДЗ лр.', 'link': 'https://meet.google.com/your-link'},
+        {'time': '12:25 - 13:50', 'send_time': '12:20', 'subject': 'ОБДЗ лр.', 'link': '(Кузьменко-https://meet.google.com/yum-rvfv-oka)\n(Голуб-https://meet.google.com/jnm-uncm-esb)'},
     ],
 }
 
