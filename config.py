@@ -1,4 +1,4 @@
-# config.py
+"""# config.py
 
 TOKEN = '6560084642:AAFsR9ux5rmqQktwHDfW0gZqFo63jewRyrw'
 admin_id = '1022897421'
@@ -35,4 +35,4 @@ subscribed_users = [
     # Добавьте chat_id пользователей, которым нужно отправлять уведомления
     1022897421,
     -1001530972086,
-]
+]"""
